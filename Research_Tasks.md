@@ -7,3 +7,16 @@
 * The sample code is in ``ipynb`` format. You can use Jupyter Notebook to run this code. 
   * How to use Jupyter Notebook? 
     * Check this tutorial: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
+
+### Manuscript
+* Introduction
+  *  
+* Related Works
+* Methodlogy
+  * Try to run the sample code on your local machine (either use jupter notebook or use co-lab).
+* Experiment
+  * Try to use the sample code to train 318 folder and to generate the loss plot. 
+* Conclusion
+
+* Conference website: https://ieeesoutheastcon.org/
